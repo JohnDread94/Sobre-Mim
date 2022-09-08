@@ -1,4 +1,4 @@
-<!--- Header --->   
+
 <h1 align="center">
   Sobre Mim
   <a target="_blank">
@@ -44,6 +44,23 @@
   <a href="https://github.com/EeyJey/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=EeyJey&theme=chartreuse-dark"></p>
   </a>
+</p>
+
+  
+<h1 align="center">
+  Análise do Github
+  <a target="_blank">
+  </a>
+</h1>
+
+  
+<p align="center">
+  <a href="https://github.com/EeyJey">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EeyJey&layout=compact&hide=TSQL&theme=chartreuse-dark" />
+    <img height="180em" img src="https://github-readme-stats.vercel.app/api?username=EeyJey&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true"/>
+  </a>
+</p>
+
 </p>
 
   
